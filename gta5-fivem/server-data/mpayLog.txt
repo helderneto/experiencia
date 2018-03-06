@@ -1,0 +1,2 @@
+Sat Mar  3 21:52:11 2018 => 7 mobile paid 8 the amount of 1000, user bank post-payment for 7 equals $19000 and for 7 equals $21000
+Sun Mar  4 01:19:50 2018 => 32 mobile paid 34 the amount of 1500, user bank post-payment for 32 equals $9500 and for 32 equals $21500

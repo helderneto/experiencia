@@ -1,0 +1,12 @@
+Sun Mar  4 00:25:32 2018 => 1 fined 4 the amount of 4000 for Nao tem carta de conducao
+Sun Mar  4 01:16:09 2018 => 25 fined 6 the amount of 4000 for Excesso de velocidade
+Sun Mar  4 01:17:23 2018 => 3 fined 17 the amount of 10000 for Condução sem licensa, conduçao perigosa
+Sun Mar  4 01:50:21 2018 => 7 fined 14 the amount of 2000 for CARRO ROUBADO TRACO CONTINU
+
+Sun Mar  4 02:34:54 2018 => 7 fined 34 the amount of 1000 for sinal vermelho
+Sun Mar  4 03:23:18 2018 => 7 fined 33 the amount of 2000 for velocidade 
+Sun Mar  4 04:07:32 2018 => 8 fined 32 the amount of 7000 for por conducao prigrosa
+Sun Mar  4 13:38:32 2018 => 8 fined 5 the amount of 75000 for por ter sua posse 25 cocaina  21 lsd 37 weed e poe fuga em dentencao e conducao prigosa 
+Sun Mar  4 23:21:19 2018 => 7 fined 15 the amount of 8000 for sinal vermelho alta velocidade
+Mon Mar  5 20:11:07 2018 => 26 fined 1 the amount of 100 for teste
+Mon Mar  5 23:49:38 2018 => 7 fined 15 the amount of 20000 for atentado a policia posse arma branca
